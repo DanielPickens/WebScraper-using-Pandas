@@ -6,3 +6,4 @@ Web scraper
 ~$ cd webscraper-using-pandas
 ~$ python scraper.py -s http://target.com -t 200
 -$ base url in scraper.py needs to be changed to accommodate target location url
+~$requests.Get needs to be modified to accommodate target url
